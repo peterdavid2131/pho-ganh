@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="icon" href="/pho-ganh/favicon.svg" type="image/svg+xml">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phở Gánh</title>
+<link rel="canonical" href="https://peterdavid2131.github.io/pho-ganh/us/">
+<link rel="alternate" hreflang="en-US" href="https://peterdavid2131.github.io/pho-ganh/us/">
+<link rel="alternate" hreflang="vi-VN" href="https://peterdavid2131.github.io/pho-ganh/vn/">
+<script>
+(function () {
+  var markets = [{"id":"us","lang":"en","country":"US"},{"id":"vn","lang":"vi","country":"VN"}], root = "/pho-ganh/";
+  var prefs = (navigator.languages || [navigator.language || '']).map(function (l) { return l.toLowerCase(); });
+  var pick = null;
+  prefs.some(function (p) { var parts = p.split('-'); return markets.some(function (m) {
+    if ((parts[1] && m.country.toLowerCase() === parts[1]) || m.lang === parts[0]) { pick = m; return true; } return false; }); });
+  location.replace(root + (pick || markets[0]).id + '/');
+})();
+</script>
+</head>
+<body><p><a href="/pho-ganh/us/">US</a> · <a href="/pho-ganh/vn/">VN</a></p></body>
+</html>

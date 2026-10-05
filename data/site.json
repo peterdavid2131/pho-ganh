@@ -1,0 +1,253 @@
+{
+  "name": "Phở Gánh",
+  "logo": null,
+  "heroImage": null,
+  "since": {
+    "vi": "Từ năm 1986",
+    "en": "Since 1986"
+  },
+  "tagline": {
+    "vi": "Phở bò Hà Nội, nước dùng ninh 12 tiếng",
+    "en": "Hanoi beef pho, broth simmered for 12 hours"
+  },
+  "intro": {
+    "vi": "Ba thế hệ giữ một công thức: xương ống ninh từ chiều hôm trước, bánh phở tráng mỗi sáng, bò tươi trong ngày. Mở cửa từ 6 giờ sáng.",
+    "en": "Three generations, one recipe: marrow bones simmered from the afternoon before, rice noodles made every morning, beef bought fresh that day. Open from 6 a.m."
+  },
+  "highlights": [
+    {
+      "vi": "Ninh xương 12 tiếng",
+      "en": "12-hour bone broth"
+    },
+    {
+      "vi": "Bánh phở tươi mỗi sáng",
+      "en": "Fresh noodles every morning"
+    },
+    {
+      "vi": "Bò tươi trong ngày",
+      "en": "Beef bought fresh daily"
+    },
+    {
+      "vi": "Rau thơm sạch",
+      "en": "Clean fresh herbs"
+    },
+    {
+      "vi": "Không bột ngọt",
+      "en": "No added MSG"
+    }
+  ],
+  "theme": {
+    "primary": "#B42318",
+    "ink": "#2A1A12",
+    "bg": "#FFF8E7",
+    "surface": "#FFFFFF",
+    "soft": "#F6EAD1",
+    "accent": "#F2B63D"
+  },
+  "contact": {
+    "phone": "0900 000 333",
+    "zalo": "0900000333",
+    "whatsapp": "84900000333",
+    "email": "hello@phoganh.vn",
+    "address": {
+      "vi": "86 Lò Đúc, Hai Bà Trưng, Hà Nội",
+      "en": "86 Lo Duc, Hai Ba Trung, Hanoi, Vietnam"
+    }
+  },
+  "hours": [
+    {
+      "days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": "06:00",
+      "close": "11:00"
+    },
+    {
+      "days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "open": "17:00",
+      "close": "22:00"
+    }
+  ],
+  "orderChannels": {
+    "vn": [
+      "phone",
+      "zalo"
+    ],
+    "us": [
+      "phone",
+      "whatsapp"
+    ]
+  },
+  "delivery": {
+    "vn": [
+      {
+        "name": "GrabFood",
+        "url": "https://food.grab.com/vn/"
+      },
+      {
+        "name": "ShopeeFood",
+        "url": "https://shopeefood.vn/"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "image": "photos/table-1.webp",
+      "caption": {
+        "vi": "Phở bò, phở gà và chén giấm tỏi trên bàn",
+        "en": "Beef and chicken pho with garlic vinegar"
+      }
+    },
+    {
+      "image": "photos/table-2.webp",
+      "caption": {
+        "vi": "Bàn cạnh cửa sổ, nhìn ra phố",
+        "en": "Window seats onto the street"
+      }
+    }
+  ],
+  "story": {
+    "title": {
+      "vi": "Từ gánh phở đầu ngõ",
+      "en": "From a street-corner pho stall"
+    },
+    "body": {
+      "vi": "Năm 1986, ông nội gánh nồi nước dùng ra đầu ngõ Lò Đúc bán từ tờ mờ sáng. Khách quen gọi luôn là \"phở gánh\", cái tên theo quán tới bây giờ.",
+      "en": "In 1986 our grandfather carried his broth pot on a shoulder pole to the corner of Lo Duc street before dawn. Regulars called it \"phở gánh\" — the stall pho — and the name stuck."
+    },
+    "timeline": [
+      {
+        "year": "1986",
+        "text": {
+          "vi": "Ông nội gánh phở bán ở đầu ngõ",
+          "en": "Grandfather sells pho from a shoulder-pole stall"
+        }
+      },
+      {
+        "year": "1998",
+        "text": {
+          "vi": "Mở quán đầu tiên với 6 bàn gỗ",
+          "en": "The first shop opens with six wooden tables"
+        }
+      },
+      {
+        "year": "2015",
+        "text": {
+          "vi": "Thế hệ thứ hai giữ nguyên công thức nước dùng",
+          "en": "The second generation keeps the same broth recipe"
+        }
+      },
+      {
+        "year": {
+          "vi": "Nay",
+          "en": "Today"
+        },
+        "text": {
+          "vi": "Thế hệ thứ ba đứng bếp mỗi sáng",
+          "en": "The third generation runs the kitchen every morning"
+        }
+      }
+    ],
+    "signature": {
+      "vi": "Gia đình Phở Gánh",
+      "en": "The Phở Gánh family"
+    }
+  },
+  "broth": {
+    "title": {
+      "vi": "Nồi nước dùng 12 tiếng",
+      "en": "A 12-hour pot of broth"
+    },
+    "body": {
+      "vi": "Xương ống bò ninh nhỏ lửa từ 5 giờ chiều, hớt bọt liên tục để nước trong. Gừng, hành nướng, quế, hồi, thảo quả thả vào lúc gần sáng để giữ mùi thơm.",
+      "en": "Beef marrow bones simmer on a low flame from 5 p.m., skimmed constantly for a clear broth. Charred ginger and onion, cinnamon, star anise and black cardamom go in before dawn to keep their aroma."
+    },
+    "facts": [
+      {
+        "value": {
+          "vi": "12 giờ",
+          "en": "12 hrs"
+        },
+        "label": {
+          "vi": "ninh xương",
+          "en": "of simmering"
+        }
+      },
+      {
+        "value": "7",
+        "label": {
+          "vi": "vị thảo mộc",
+          "en": "spices & aromatics"
+        }
+      },
+      {
+        "value": {
+          "vi": "5 giờ",
+          "en": "5 a.m."
+        },
+        "label": {
+          "vi": "tráng bánh phở",
+          "en": "noodles made"
+        }
+      }
+    ]
+  },
+  "reserve": {
+    "title": {
+      "vi": "Đặt bàn, nấu phở cho tiệc",
+      "en": "Book a table or a pho party"
+    },
+    "body": {
+      "vi": "Nhận đặt bàn nhóm từ 6 người và nấu phở tại chỗ cho tiệc công ty, sinh nhật, đám hỏi. Vui lòng báo trước 1 ngày.",
+      "en": "We take table bookings for groups of 6 or more and cater pho for office parties and family celebrations. Please book a day ahead."
+    }
+  },
+  "reviews": [
+    {
+      "name": "Hoàng",
+      "rating": 5,
+      "date": "2026-09-21",
+      "text": {
+        "vi": "Nước dùng trong, ngọt xương, ăn xong không khát. Tô đặc biệt rất đầy đặn.",
+        "en": "Clear, sweet bone broth that doesn't leave you thirsty. The special bowl is generous."
+      }
+    },
+    {
+      "name": "Linh",
+      "rating": 5,
+      "date": "2026-09-02",
+      "text": {
+        "vi": "Sáng nào đi làm cũng ghé. Quẩy giòn, trà đá luôn có sẵn.",
+        "en": "My breakfast stop every workday. Crispy dough sticks and iced tea always ready."
+      }
+    },
+    {
+      "name": "Daniel",
+      "rating": 5,
+      "date": "2026-08-14",
+      "text": {
+        "vi": "Phở ngon nhất tôi ăn ở Hà Nội, có thực đơn tiếng Anh.",
+        "en": "The best pho I had in Hanoi, and there's an English menu."
+      }
+    }
+  ],
+  "social": {
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/"
+  },
+  "badge": true
+}
