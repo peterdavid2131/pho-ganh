@@ -3,29 +3,37 @@
   "logo": null,
   "heroImage": null,
   "since": {
-    "en": "Since 1986"
+    "en": "Since 1986",
+    "fa": "Since 1986"
   },
   "tagline": {
-    "en": "Hanoi beef pho, broth simmered for 12 hours"
+    "en": "Hanoi beef pho, broth simmered for 12 hours",
+    "fa": "Hanoi beef pho, broth simmered for 12 hours"
   },
   "intro": {
-    "en": "Three generations, one recipe: marrow bones simmered from the afternoon before, rice noodles made every morning, beef bought fresh that day. Open from 6 a.m."
+    "en": "Three generations, one recipe: marrow bones simmered from the afternoon before, rice noodles made every morning, beef bought fresh that day. Open from 6 a.m.",
+    "fa": "Three generations, one recipe: marrow bones simmered from the afternoon before, rice noodles made every morning, beef bought fresh that day. Open from 6 a.m."
   },
   "highlights": [
     {
-      "en": "12-hour bone broth"
+      "en": "12-hour bone broth",
+      "fa": "12-hour bone broth"
     },
     {
-      "en": "Fresh noodles every morning"
+      "en": "Fresh noodles every morning",
+      "fa": "Fresh noodles every morning"
     },
     {
-      "en": "Beef bought fresh daily"
+      "en": "Beef bought fresh daily",
+      "fa": "Beef bought fresh daily"
     },
     {
-      "en": "Clean fresh herbs"
+      "en": "Clean fresh herbs",
+      "fa": "Clean fresh herbs"
     },
     {
-      "en": "No added MSG"
+      "en": "No added MSG",
+      "fa": "No added MSG"
     }
   ],
   "theme": {
@@ -42,7 +50,8 @@
     "whatsapp": "84900000333",
     "email": "hello@phoganh.vn",
     "address": {
-      "en": "86 Lo Duc, Hai Ba Trung, Hanoi, Vietnam"
+      "en": "86 Lo Duc, Hai Ba Trung, Hanoi, Vietnam",
+      "fa": "86 Lo Duc, Hai Ba Trung, Hanoi, Vietnam"
     }
   },
   "hours": [
@@ -77,6 +86,10 @@
     "us": [
       "phone",
       "whatsapp"
+    ],
+    "af": [
+      "phone",
+      "whatsapp"
     ]
   },
   "delivery": {},
@@ -84,93 +97,112 @@
     {
       "image": "photos/table-1.webp",
       "caption": {
-        "en": "Beef and chicken pho with garlic vinegar"
+        "en": "Beef and chicken pho with garlic vinegar",
+        "fa": "Beef and chicken pho with garlic vinegar"
       }
     },
     {
       "image": "photos/table-2.webp",
       "caption": {
-        "en": "Window seats onto the street"
+        "en": "Window seats onto the street",
+        "fa": "Window seats onto the street"
       }
     }
   ],
   "story": {
     "title": {
-      "en": "From a street-corner pho stall"
+      "en": "From a street-corner pho stall",
+      "fa": "From a street-corner pho stall"
     },
     "body": {
-      "en": "In 1986 our grandfather carried his broth pot on a shoulder pole to the corner of Lo Duc street before dawn. Regulars called it \"phở gánh\" — the stall pho — and the name stuck."
+      "en": "In 1986 our grandfather carried his broth pot on a shoulder pole to the corner of Lo Duc street before dawn. Regulars called it \"phở gánh\" — the stall pho — and the name stuck.",
+      "fa": "In 1986 our grandfather carried his broth pot on a shoulder pole to the corner of Lo Duc street before dawn. Regulars called it \"phở gánh\" — the stall pho — and the name stuck."
     },
     "timeline": [
       {
         "year": "1986",
         "text": {
-          "en": "Grandfather sells pho from a shoulder-pole stall"
+          "en": "Grandfather sells pho from a shoulder-pole stall",
+          "fa": "Grandfather sells pho from a shoulder-pole stall"
         }
       },
       {
         "year": "1998",
         "text": {
-          "en": "The first shop opens with six wooden tables"
+          "en": "The first shop opens with six wooden tables",
+          "fa": "The first shop opens with six wooden tables"
         }
       },
       {
         "year": "2015",
         "text": {
-          "en": "The second generation keeps the same broth recipe"
+          "en": "The second generation keeps the same broth recipe",
+          "fa": "The second generation keeps the same broth recipe"
         }
       },
       {
         "year": {
-          "en": "Today"
+          "en": "Today",
+          "fa": "Today"
         },
         "text": {
-          "en": "The third generation runs the kitchen every morning"
+          "en": "The third generation runs the kitchen every morning",
+          "fa": "The third generation runs the kitchen every morning"
         }
       }
     ],
     "signature": {
-      "en": "The Phở Gánh family"
+      "en": "The Phở Gánh family",
+      "fa": "The Phở Gánh family"
     }
   },
   "broth": {
     "title": {
-      "en": "A 12-hour pot of broth"
+      "en": "A 12-hour pot of broth",
+      "fa": "A 12-hour pot of broth"
     },
     "body": {
-      "en": "Beef marrow bones simmer on a low flame from 5 p.m., skimmed constantly for a clear broth. Charred ginger and onion, cinnamon, star anise and black cardamom go in before dawn to keep their aroma."
+      "en": "Beef marrow bones simmer on a low flame from 5 p.m., skimmed constantly for a clear broth. Charred ginger and onion, cinnamon, star anise and black cardamom go in before dawn to keep their aroma.",
+      "fa": "Beef marrow bones simmer on a low flame from 5 p.m., skimmed constantly for a clear broth. Charred ginger and onion, cinnamon, star anise and black cardamom go in before dawn to keep their aroma."
     },
     "facts": [
       {
         "value": {
-          "en": "12 hrs"
+          "en": "12 hrs",
+          "fa": "12 hrs"
         },
         "label": {
-          "en": "of simmering"
+          "en": "of simmering",
+          "fa": "of simmering"
         }
       },
       {
         "value": "7",
         "label": {
-          "en": "spices & aromatics"
+          "en": "spices & aromatics",
+          "fa": "spices & aromatics"
         }
       },
       {
         "value": {
-          "en": "5 a.m."
+          "en": "5 a.m.",
+          "fa": "5 a.m."
         },
         "label": {
-          "en": "noodles made"
+          "en": "noodles made",
+          "fa": "noodles made"
         }
       }
     ]
   },
   "reserve": {
     "title": {
-      "en": "Book a table or a pho party"
+      "en": "Book a table or a pho party",
+      "fa": "Book a table or a pho party"
     },
     "body": {
-      "en": "We take table bookings for groups of 6 or more and cater pho for office parties and family celebrations. Please book a day ahead."
+      "en": "We take table bookings for groups of 6 or more and cater pho for office parties and family celebrations. Please book a day ahead.",
+      "fa": "We take table bookings for groups of 6 or more and cater pho for office parties and family celebrations. Please book a day ahead."
     }
   },
   "reviews": [
@@ -179,7 +211,8 @@
       "rating": 5,
       "date": "2026-09-21",
       "text": {
-        "en": "Clear, sweet bone broth that doesn't leave you thirsty. The special bowl is generous."
+        "en": "Clear, sweet bone broth that doesn't leave you thirsty. The special bowl is generous.",
+        "fa": "Clear, sweet bone broth that doesn't leave you thirsty. The special bowl is generous."
       }
     },
     {
@@ -187,7 +220,8 @@
       "rating": 5,
       "date": "2026-09-02",
       "text": {
-        "en": "My breakfast stop every workday. Crispy dough sticks and iced tea always ready."
+        "en": "My breakfast stop every workday. Crispy dough sticks and iced tea always ready.",
+        "fa": "My breakfast stop every workday. Crispy dough sticks and iced tea always ready."
       }
     },
     {
@@ -195,7 +229,8 @@
       "rating": 5,
       "date": "2026-08-14",
       "text": {
-        "en": "The best pho I had in Hanoi, and there's an English menu."
+        "en": "The best pho I had in Hanoi, and there's an English menu.",
+        "fa": "The best pho I had in Hanoi, and there's an English menu."
       }
     }
   ],
@@ -203,5 +238,81 @@
     "facebook": "https://facebook.com/",
     "instagram": "https://instagram.com/"
   },
-  "badge": true
+  "badge": true,
+  "uiText": {
+    "fa": {
+      "skip": "Skip to content",
+      "nav": {
+        "menu": "Menu",
+        "story": "Our story",
+        "reserve": "Book",
+        "visit": "Visit",
+        "order": "Book a table",
+        "openMenu": "Open menu"
+      },
+      "hero": {
+        "menu": "See the menu",
+        "reserve": "Book a table",
+        "directions": "Directions",
+        "openFrom": "Open from"
+      },
+      "signature": "Most ordered bowls",
+      "menu": {
+        "title": "Menu",
+        "note": "Prices include tax. Fresh herbs, bean sprouts, lime, chili and garlic vinegar are free.",
+        "size": "Bowl size"
+      },
+      "delivery": "Delivered by",
+      "story": {
+        "title": "Our story"
+      },
+      "broth": {
+        "title": "The broth"
+      },
+      "reserve": {
+        "call": "Call to book",
+        "note": "Groups under 6 don't need to book. Just drop in."
+      },
+      "reviews": {
+        "title": "What guests say"
+      },
+      "orderText": "Hi, I'd like to book a table for … people at … on …",
+      "via": {
+        "zalo": "Zalo",
+        "phone": "Call",
+        "whatsapp": "WhatsApp",
+        "email": "Email",
+        "messenger": "Messenger"
+      },
+      "visit": {
+        "title": "Visit us",
+        "hours": "Opening hours",
+        "address": "Address",
+        "directions": "Get directions",
+        "open": "Open now",
+        "closed": "Closed now",
+        "everyDay": "Every day"
+      },
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "footer": {
+        "follow": "Follow us",
+        "contact": "Contact",
+        "madeWith": "Made with Kingpes"
+      },
+      "market": {
+        "label": "Region",
+        "suggest": "See prices in {currency}?",
+        "switch": "Switch",
+        "dismiss": "Dismiss"
+      }
+    }
+  }
 }

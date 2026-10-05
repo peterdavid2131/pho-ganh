@@ -9,31 +9,44 @@
       "lang": "en",
       "rounding": "0.99",
       "default": true
+    },
+    {
+      "id": "af",
+      "country": "AF",
+      "currency": "AFN",
+      "lang": "fa",
+      "langName": "Persian",
+      "rate": 64.49,
+      "rounding": "0.99"
     }
   ],
   "categories": [
     {
       "id": "pho-bo",
       "name": {
-        "en": "Beef pho"
+        "en": "Beef pho",
+        "fa": "Beef pho"
       }
     },
     {
       "id": "pho-khac",
       "name": {
-        "en": "Chicken & vegetarian"
+        "en": "Chicken & vegetarian",
+        "fa": "Chicken & vegetarian"
       }
     },
     {
       "id": "an-kem",
       "name": {
-        "en": "Sides"
+        "en": "Sides",
+        "fa": "Sides"
       }
     },
     {
       "id": "do-uong",
       "name": {
-        "en": "Drinks"
+        "en": "Drinks",
+        "fa": "Drinks"
       }
     }
   ],
@@ -44,25 +57,30 @@
       "featured": true,
       "image": "photos/pho-dac-biet.webp",
       "tag": {
-        "en": "Best seller"
+        "en": "Best seller",
+        "fa": "Best seller"
       },
       "name": {
-        "en": "Special combo pho"
+        "en": "Special combo pho",
+        "fa": "Special combo pho"
       },
       "description": {
-        "en": "Rare steak, flank, brisket, tendon and meatballs in one bowl."
+        "en": "Rare steak, flank, brisket, tendon and meatballs in one bowl.",
+        "fa": "Rare steak, flank, brisket, tendon and meatballs in one bowl."
       },
       "variants": [
         {
           "size": {
-            "en": "Small"
+            "en": "Small",
+            "fa": "Small"
           },
           "basePrice": 14.99,
           "prices": {}
         },
         {
           "size": {
-            "en": "Large"
+            "en": "Large",
+            "fa": "Large"
           },
           "basePrice": 16.99,
           "prices": {}
@@ -75,22 +93,26 @@
       "featured": true,
       "image": "photos/pho-tai.webp",
       "name": {
-        "en": "Rare beef pho"
+        "en": "Rare beef pho",
+        "fa": "Rare beef pho"
       },
       "description": {
-        "en": "Thin-sliced sirloin, cooked rare by the boiling broth."
+        "en": "Thin-sliced sirloin, cooked rare by the boiling broth.",
+        "fa": "Thin-sliced sirloin, cooked rare by the boiling broth."
       },
       "variants": [
         {
           "size": {
-            "en": "Small"
+            "en": "Small",
+            "fa": "Small"
           },
           "basePrice": 10.99,
           "prices": {}
         },
         {
           "size": {
-            "en": "Large"
+            "en": "Large",
+            "fa": "Large"
           },
           "basePrice": 12.99,
           "prices": {}
@@ -103,22 +125,26 @@
       "featured": true,
       "image": "photos/pho-chin.webp",
       "name": {
-        "en": "Well-done brisket pho"
+        "en": "Well-done brisket pho",
+        "fa": "Well-done brisket pho"
       },
       "description": {
-        "en": "Tender flank and brisket, sliced medium-thick."
+        "en": "Tender flank and brisket, sliced medium-thick.",
+        "fa": "Tender flank and brisket, sliced medium-thick."
       },
       "variants": [
         {
           "size": {
-            "en": "Small"
+            "en": "Small",
+            "fa": "Small"
           },
           "basePrice": 10.99,
           "prices": {}
         },
         {
           "size": {
-            "en": "Large"
+            "en": "Large",
+            "fa": "Large"
           },
           "basePrice": 12.99,
           "prices": {}
@@ -129,22 +155,26 @@
       "id": "pho-tai-nam",
       "category": "pho-bo",
       "name": {
-        "en": "Rare beef & flank pho"
+        "en": "Rare beef & flank pho",
+        "fa": "Rare beef & flank pho"
       },
       "description": {
-        "en": "Half rare steak, half flank."
+        "en": "Half rare steak, half flank.",
+        "fa": "Half rare steak, half flank."
       },
       "variants": [
         {
           "size": {
-            "en": "Small"
+            "en": "Small",
+            "fa": "Small"
           },
           "basePrice": 11.99,
           "prices": {}
         },
         {
           "size": {
-            "en": "Large"
+            "en": "Large",
+            "fa": "Large"
           },
           "basePrice": 13.99,
           "prices": {}
@@ -156,22 +186,26 @@
       "category": "pho-bo",
       "image": "photos/pho-bo-vien.webp",
       "name": {
-        "en": "Beef meatball pho"
+        "en": "Beef meatball pho",
+        "fa": "Beef meatball pho"
       },
       "description": {
-        "en": "Hand-pounded beef meatballs with a springy bite."
+        "en": "Hand-pounded beef meatballs with a springy bite.",
+        "fa": "Hand-pounded beef meatballs with a springy bite."
       },
       "variants": [
         {
           "size": {
-            "en": "Small"
+            "en": "Small",
+            "fa": "Small"
           },
           "basePrice": 10.99,
           "prices": {}
         },
         {
           "size": {
-            "en": "Large"
+            "en": "Large",
+            "fa": "Large"
           },
           "basePrice": 12.99,
           "prices": {}
@@ -184,22 +218,26 @@
       "featured": true,
       "image": "photos/pho-ga.webp",
       "name": {
-        "en": "Free-range chicken pho"
+        "en": "Free-range chicken pho",
+        "fa": "Free-range chicken pho"
       },
       "description": {
-        "en": "Hand-pulled free-range chicken in a clear, sweet broth."
+        "en": "Hand-pulled free-range chicken in a clear, sweet broth.",
+        "fa": "Hand-pulled free-range chicken in a clear, sweet broth."
       },
       "variants": [
         {
           "size": {
-            "en": "Small"
+            "en": "Small",
+            "fa": "Small"
           },
           "basePrice": 10.99,
           "prices": {}
         },
         {
           "size": {
-            "en": "Large"
+            "en": "Large",
+            "fa": "Large"
           },
           "basePrice": 12.99,
           "prices": {}
@@ -211,25 +249,30 @@
       "category": "pho-khac",
       "image": "photos/pho-chay.webp",
       "tag": {
-        "en": "Vegan"
+        "en": "Vegan",
+        "fa": "Vegan"
       },
       "name": {
-        "en": "Vegetarian pho"
+        "en": "Vegetarian pho",
+        "fa": "Vegetarian pho"
       },
       "description": {
-        "en": "Tofu, mushrooms and greens in a vegetable broth."
+        "en": "Tofu, mushrooms and greens in a vegetable broth.",
+        "fa": "Tofu, mushrooms and greens in a vegetable broth."
       },
       "variants": [
         {
           "size": {
-            "en": "Small"
+            "en": "Small",
+            "fa": "Small"
           },
           "basePrice": 9.99,
           "prices": {}
         },
         {
           "size": {
-            "en": "Large"
+            "en": "Large",
+            "fa": "Large"
           },
           "basePrice": 11.99,
           "prices": {}
@@ -241,10 +284,12 @@
       "category": "an-kem",
       "image": "photos/quay.webp",
       "name": {
-        "en": "Fried dough sticks"
+        "en": "Fried dough sticks",
+        "fa": "Fried dough sticks"
       },
       "description": {
-        "en": "Dip them in the broth."
+        "en": "Dip them in the broth.",
+        "fa": "Dip them in the broth."
       },
       "variants": [
         {
@@ -257,7 +302,8 @@
       "id": "trung-chan",
       "category": "an-kem",
       "name": {
-        "en": "Poached egg"
+        "en": "Poached egg",
+        "fa": "Poached egg"
       },
       "variants": [
         {
@@ -270,7 +316,8 @@
       "id": "them-thit",
       "category": "an-kem",
       "name": {
-        "en": "Extra beef"
+        "en": "Extra beef",
+        "fa": "Extra beef"
       },
       "variants": [
         {
@@ -284,10 +331,12 @@
       "category": "an-kem",
       "image": "photos/goi-cuon.webp",
       "name": {
-        "en": "Fresh spring rolls (2)"
+        "en": "Fresh spring rolls (2)",
+        "fa": "Fresh spring rolls (2)"
       },
       "description": {
-        "en": "Shrimp, pork, noodles and herbs with peanut-hoisin dip."
+        "en": "Shrimp, pork, noodles and herbs with peanut-hoisin dip.",
+        "fa": "Shrimp, pork, noodles and herbs with peanut-hoisin dip."
       },
       "variants": [
         {
@@ -301,7 +350,8 @@
       "category": "do-uong",
       "image": "photos/tra-da.webp",
       "name": {
-        "en": "Iced tea"
+        "en": "Iced tea",
+        "fa": "Iced tea"
       },
       "variants": [
         {
@@ -314,7 +364,8 @@
       "id": "cafe-sua-da",
       "category": "do-uong",
       "name": {
-        "en": "Vietnamese iced coffee"
+        "en": "Vietnamese iced coffee",
+        "fa": "Vietnamese iced coffee"
       },
       "variants": [
         {
@@ -327,10 +378,12 @@
       "id": "nuoc-sau",
       "category": "do-uong",
       "name": {
-        "en": "Iced sấu fruit drink"
+        "en": "Iced sấu fruit drink",
+        "fa": "Iced sấu fruit drink"
       },
       "description": {
-        "en": "Sweet-sour sấu fruit, a Hanoi summer classic."
+        "en": "Sweet-sour sấu fruit, a Hanoi summer classic.",
+        "fa": "Sweet-sour sấu fruit, a Hanoi summer classic."
       },
       "variants": [
         {
