@@ -9,42 +9,30 @@
       "lang": "en",
       "rounding": "0.99",
       "default": true
-    },
-    {
-      "id": "vn",
-      "country": "VN",
-      "currency": "VND",
-      "lang": "vi",
-      "rate": 5263.16,
-      "rounding": "1000"
     }
   ],
   "categories": [
     {
       "id": "pho-bo",
       "name": {
-        "vi": "Phở bò",
         "en": "Beef pho"
       }
     },
     {
       "id": "pho-khac",
       "name": {
-        "vi": "Phở gà, phở chay",
         "en": "Chicken & vegetarian"
       }
     },
     {
       "id": "an-kem",
       "name": {
-        "vi": "Món ăn kèm",
         "en": "Sides"
       }
     },
     {
       "id": "do-uong",
       "name": {
-        "vi": "Đồ uống",
         "en": "Drinks"
       }
     }
@@ -56,43 +44,28 @@
       "featured": true,
       "image": "photos/pho-dac-biet.webp",
       "tag": {
-        "vi": "Bán chạy",
         "en": "Best seller"
       },
       "name": {
-        "vi": "Phở đặc biệt",
         "en": "Special combo pho"
       },
       "description": {
-        "vi": "Tái, nạm, gầu, gân và bò viên trong một tô.",
         "en": "Rare steak, flank, brisket, tendon and meatballs in one bowl."
       },
       "variants": [
         {
           "size": {
-            "vi": "Nhỏ",
             "en": "Small"
           },
           "basePrice": 14.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 75000
-            }
-          }
+          "prices": {}
         },
         {
           "size": {
-            "vi": "Lớn",
             "en": "Large"
           },
           "basePrice": 16.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 85000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -102,39 +75,25 @@
       "featured": true,
       "image": "photos/pho-tai.webp",
       "name": {
-        "vi": "Phở tái",
         "en": "Rare beef pho"
       },
       "description": {
-        "vi": "Thăn bò thái mỏng, chần tái ngay trong nước dùng sôi.",
         "en": "Thin-sliced sirloin, cooked rare by the boiling broth."
       },
       "variants": [
         {
           "size": {
-            "vi": "Nhỏ",
             "en": "Small"
           },
           "basePrice": 10.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 55000
-            }
-          }
+          "prices": {}
         },
         {
           "size": {
-            "vi": "Lớn",
             "en": "Large"
           },
           "basePrice": 12.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 65000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -144,39 +103,25 @@
       "featured": true,
       "image": "photos/pho-chin.webp",
       "name": {
-        "vi": "Phở chín",
         "en": "Well-done brisket pho"
       },
       "description": {
-        "vi": "Nạm, gầu luộc mềm, thái lát dày vừa.",
         "en": "Tender flank and brisket, sliced medium-thick."
       },
       "variants": [
         {
           "size": {
-            "vi": "Nhỏ",
             "en": "Small"
           },
           "basePrice": 10.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 55000
-            }
-          }
+          "prices": {}
         },
         {
           "size": {
-            "vi": "Lớn",
             "en": "Large"
           },
           "basePrice": 12.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 65000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -184,39 +129,25 @@
       "id": "pho-tai-nam",
       "category": "pho-bo",
       "name": {
-        "vi": "Phở tái nạm",
         "en": "Rare beef & flank pho"
       },
       "description": {
-        "vi": "Nửa tái, nửa nạm cho người thích cả hai.",
         "en": "Half rare steak, half flank."
       },
       "variants": [
         {
           "size": {
-            "vi": "Nhỏ",
             "en": "Small"
           },
           "basePrice": 11.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 60000
-            }
-          }
+          "prices": {}
         },
         {
           "size": {
-            "vi": "Lớn",
             "en": "Large"
           },
           "basePrice": 13.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 70000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -225,39 +156,25 @@
       "category": "pho-bo",
       "image": "photos/pho-bo-vien.webp",
       "name": {
-        "vi": "Phở bò viên",
         "en": "Beef meatball pho"
       },
       "description": {
-        "vi": "Bò viên giã tay, dai giòn.",
         "en": "Hand-pounded beef meatballs with a springy bite."
       },
       "variants": [
         {
           "size": {
-            "vi": "Nhỏ",
             "en": "Small"
           },
           "basePrice": 10.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 55000
-            }
-          }
+          "prices": {}
         },
         {
           "size": {
-            "vi": "Lớn",
             "en": "Large"
           },
           "basePrice": 12.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 65000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -267,39 +184,25 @@
       "featured": true,
       "image": "photos/pho-ga.webp",
       "name": {
-        "vi": "Phở gà ta",
         "en": "Free-range chicken pho"
       },
       "description": {
-        "vi": "Gà ta luộc, xé tay, nước dùng gà trong và ngọt.",
         "en": "Hand-pulled free-range chicken in a clear, sweet broth."
       },
       "variants": [
         {
           "size": {
-            "vi": "Nhỏ",
             "en": "Small"
           },
           "basePrice": 10.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 55000
-            }
-          }
+          "prices": {}
         },
         {
           "size": {
-            "vi": "Lớn",
             "en": "Large"
           },
           "basePrice": 12.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 65000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -308,43 +211,28 @@
       "category": "pho-khac",
       "image": "photos/pho-chay.webp",
       "tag": {
-        "vi": "Chay",
         "en": "Vegan"
       },
       "name": {
-        "vi": "Phở chay",
         "en": "Vegetarian pho"
       },
       "description": {
-        "vi": "Đậu hũ, nấm và rau củ, nước dùng ninh từ củ quả.",
         "en": "Tofu, mushrooms and greens in a vegetable broth."
       },
       "variants": [
         {
           "size": {
-            "vi": "Nhỏ",
             "en": "Small"
           },
           "basePrice": 9.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 50000
-            }
-          }
+          "prices": {}
         },
         {
           "size": {
-            "vi": "Lớn",
             "en": "Large"
           },
           "basePrice": 11.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 60000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -353,22 +241,15 @@
       "category": "an-kem",
       "image": "photos/quay.webp",
       "name": {
-        "vi": "Quẩy giòn",
         "en": "Fried dough sticks"
       },
       "description": {
-        "vi": "Chấm nước phở, ăn nóng.",
         "en": "Dip them in the broth."
       },
       "variants": [
         {
           "basePrice": 1.49,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 5000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -376,18 +257,12 @@
       "id": "trung-chan",
       "category": "an-kem",
       "name": {
-        "vi": "Trứng chần",
         "en": "Poached egg"
       },
       "variants": [
         {
           "basePrice": 1.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 8000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -395,18 +270,12 @@
       "id": "them-thit",
       "category": "an-kem",
       "name": {
-        "vi": "Thêm thịt bò",
         "en": "Extra beef"
       },
       "variants": [
         {
           "basePrice": 4.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 30000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -415,22 +284,15 @@
       "category": "an-kem",
       "image": "photos/goi-cuon.webp",
       "name": {
-        "vi": "Gỏi cuốn tôm thịt (2 cuốn)",
         "en": "Fresh spring rolls (2)"
       },
       "description": {
-        "vi": "Tôm, thịt, bún, rau sống, chấm tương đậu.",
         "en": "Shrimp, pork, noodles and herbs with peanut-hoisin dip."
       },
       "variants": [
         {
           "basePrice": 5.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 30000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -439,18 +301,12 @@
       "category": "do-uong",
       "image": "photos/tra-da.webp",
       "name": {
-        "vi": "Trà đá",
         "en": "Iced tea"
       },
       "variants": [
         {
           "basePrice": 2.49,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 5000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -458,18 +314,12 @@
       "id": "cafe-sua-da",
       "category": "do-uong",
       "name": {
-        "vi": "Cà phê sữa đá",
         "en": "Vietnamese iced coffee"
       },
       "variants": [
         {
           "basePrice": 4.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 25000
-            }
-          }
+          "prices": {}
         }
       ]
     },
@@ -477,22 +327,15 @@
       "id": "nuoc-sau",
       "category": "do-uong",
       "name": {
-        "vi": "Nước sấu đá",
         "en": "Iced sấu fruit drink"
       },
       "description": {
-        "vi": "Sấu ngâm đường, chua ngọt, chỉ có ở Hà Nội.",
         "en": "Sweet-sour sấu fruit, a Hanoi summer classic."
       },
       "variants": [
         {
           "basePrice": 3.99,
-          "prices": {
-            "vn": {
-              "mode": "manual",
-              "amount": 20000
-            }
-          }
+          "prices": {}
         }
       ]
     }
